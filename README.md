@@ -1,2 +1,0 @@
-# Quizz-name
-Quizz Name
